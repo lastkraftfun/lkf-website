@@ -1,0 +1,18 @@
+body {
+	background-color: rgb(255, 162, 0);
+}
+
+#wrapper {
+	margin-top: 20px;
+	overflow: auto;
+}
+#image {
+	float: left;
+}
+#stream {
+	float: left;
+}
+#chat {
+	float: left;
+   /*margin: 0 0 0 302px;*/
+}
